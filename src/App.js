@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          editt <code>src/App.js</code> and save to reload.
+          gilaka<code>src/App.js</code> ajay
         </p>
         <a
           className="App-link"
